@@ -1,0 +1,9 @@
+.ais-Hits-list {
+  list-style-type: none;
+  padding: 0;
+  margin-left: 0; }
+
+.ais-Highlight span,
+.ais-Highlight-highlighted {
+  color: #212529; }
+
