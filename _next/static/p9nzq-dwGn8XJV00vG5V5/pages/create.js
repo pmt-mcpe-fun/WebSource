@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{mDwW:function(w,n,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/create",function(){return o("hixh")}])}},[["mDwW",0,2,4,1,3,5,6,7]]]);
